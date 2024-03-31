@@ -1,0 +1,31 @@
+# Arquivos de compilação
+bin/
+
+# Diretório de saída do Eclipse
+.classpath
+.project
+
+# Configurações do Eclipse
+.settings/
+
+# Cache do Eclipse
+.history/
+
+# Arquivos de log
+*.log
+
+# Arquivos temporários
+.tmp/
+
+# Arquivos de backup
+*~
+
+# Arquivos específicos de IDE
+.metadata/
+RemoteSystemsTempFiles/
+
+# Dependências do Maven (caso esteja usando Maven)
+target/
+
+# Dependências do Gradle (caso esteja usando Gradle)
+build/
